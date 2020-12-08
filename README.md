@@ -5,8 +5,6 @@ The following are some of the projects I've worked on (Summaries and business ca
 ## [Jeopardy Analysis](https://github.com/Ifeadewumi/JeopardyAnalysis)
 
 
-# Jeopardy Analysis
-
 ### Executive Summary
 Jeopardy is a game that tests the ability of contestants to answer a wide variety of questions from all kinds of topics.
 
